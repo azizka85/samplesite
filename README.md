@@ -7,3 +7,5 @@ Steps to install:
 3) run server: python.exe .\manage.py runserver
 4) site url: http://127.0.0.1:8000/bboard/
 5) admin url: http://127.0.0.1:8000/admin/
+
+![alt text](https://github.com/azizka85/samplesite/blob/main/images/view-1.png?raw=true)
